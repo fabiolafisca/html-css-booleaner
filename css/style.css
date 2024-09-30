@@ -1,20 +1,21 @@
 
-
-
+.maintitle {
 
     font-weight: 100px;
     font-style: normal;
-    background-color: white
-    color: black
+    background-color: white;
+    color: black; 
+    font-size:40px;
+}
 
 #main-title {
-    font size title: 50px;
-    
+    font-size:50px;
+
 }
 
 
 .main-paragraph {
-    color: black
+    color: black;
 }
 
 
